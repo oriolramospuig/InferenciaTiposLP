@@ -1,0 +1,17 @@
+NUM=1
+BARRA=2
+E=3
+D=4
+FLETXA=5
+OPER=6
+ASSIGN=7
+WRITE=8
+TIPUSBASIC=9
+ID=10
+WS=11
+'\\'=2
+'('=3
+')'=4
+'->'=5
+'::'=7
+'write'=8
