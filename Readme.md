@@ -1,5 +1,7 @@
 # Analitzador HinNer
 
+Nota: 9.25
+
 **Inferència de Tipus en Árbols Sintàctics** és una aplicació interactiva que utilitza Streamlit i ANTLR per inferir tipus en expressions lambda i visualitzar els arbres sintàctics resultants. La interfície permet visualitzar l'arbre original, l'arbre amb tipus unificats, i les taules de definicions i inferències de tipus.
 
 ## Instal·lació
